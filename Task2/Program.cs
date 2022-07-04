@@ -13,7 +13,7 @@ int[] GenerateArray()
 
     for (int i = 0; i < newArray.Length; i++)
     {
-        newArray[i] = new Random().Next(min, max + 1); //( Int32.MinValue, Int32.MaxValue );
+        newArray[i] = new Random().Next(min, max + 1);
     }
     return newArray;
 }

@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Task1
-build_property.ProjectDir = /Users/alekseynikitenko/Desktop/CSharp_Seminar_5_HW/CSharp_Seminar_5_HW/Task1/
+build_property.RootNamespace = Task3
+build_property.ProjectDir = /Users/alekseynikitenko/Desktop/CSharp_Seminar_5_HW/CSharp_Seminar_5_HW/Task3/
